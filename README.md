@@ -6,10 +6,10 @@ El proyecto UberService es una plataforma desarrollada en Django para la gestió
 
 ## Integrantes del Equipo
 
-- Pou
-- Pollo
-- Rata
-- Wazouski
+- Yoel Ccorihuaman Guillen
+- Patrick Gonzales Fernández
+- Kevin Gonzales Fernández
+- José Rondón Torres
 
 ## Funcionalidades Principales
 
